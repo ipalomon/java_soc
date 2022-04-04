@@ -24,6 +24,8 @@ public class Test
         Car citroen = new Car("Citroen", 2021);
         p1.setCar(citroen);
 
+        p1.setAge(20);
+
         p1.dogs.add(new Dog("toby"));
         p1.sayHello();
     }

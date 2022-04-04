@@ -19,13 +19,18 @@ public class Person {
         this.car = car;
     }
 
-    public Person( String name, int age, Dog dogs){
+    public Person( String name, int age, ArrayList dogs){
         this.name = name;
         this.age = age;
+        this.dogs = dogs;
     }
 
     public int getAge()    {
         return this.age;
+    }
+
+    public void setAge(int age) {
+         this.age = age;
     }
 
     public String getName()    {
@@ -45,7 +50,7 @@ public class Person {
     }
 
     public void sayName(){
-        System.out.println("Nombre "+this.name + " " + this.car.marca + " " + this.dogs.get(0).name);
+        System.out.println("Nombre "+this.name + " marca " + this.car.marca + " perro " + this.dogs.get(0).name);
         Test.hello();
     }
 
