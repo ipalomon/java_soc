@@ -1,0 +1,40 @@
+Cifo@S3g4D
+
+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
+
+Con tocken del Git remoto en el id remoto
+Creo repo remoto
+Creo proyecto local
+git a manage remote y le pongo la url remota
+Hago un 1er commit y push.
+Creo rama local y hago push
+
+Composiscion Herencia
+clases entidad attr, contruct y metoth
+crear obj por seter o por contruct
+metodos static non statics
+
+rebase resetear al principio
+
+dev UML
+tools github, idea, slack
+scrum
+mainset
+
+ejercicio1
+crear una rama master con tres ramas b1,b2 y b3 vista controlador y modelo mas utils pull rsquest y cerra
+usaremos la wike para documentacion y project para el proyecto.
+
+SpaceX-5 pasos Manofactura de procesos. Metodología.
+1) No creerse nada de nadie todos los requirimientos deben ser juzgados.
+2) Borrar partes inutles de procesos.
+3) Simplificar optimizar.
+4) Acelerar ciclo producción.
+5) Automatizar.
+
+6 mese duros, 1 año producción 2 año producción X 3 ...
+
+Main con varia opciones y una para salir metodo statico por opción 1) do/while 2) Menu 3) por consola 4) Un sólo reader.
+Bird entidad
+BirdDB array list de pajaros
+
