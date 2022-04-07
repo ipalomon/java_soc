@@ -1,6 +1,6 @@
 Cifo@S3g4D
 
-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
+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
 
 Con tocken del Git remoto en el id remoto
 Creo repo remoto
@@ -37,4 +37,25 @@ SpaceX-5 pasos Manofactura de procesos. Metodología.
 Main con varia opciones y una para salir metodo statico por opción 1) do/while 2) Menu 3) por consola 4) Un sólo reader.
 Bird entidad
 BirdDB array list de pajaros
+
+Reunión diaria
+1) Que se ha hecho.
+2) Que problemaas se ha encontrado.
+3) Que se hara.
+Reunión cliente
+1) Mostar evolutivos en pre producción.
+2) Tomar nota de incidencias y/o nuevos requerimientos.
+3) Pazos de cada requrimiento.
+
+Git Hub Ufs
+local 
+cloud 
+Branch 
+programación: donde estas, porque, que hace y como
+operaciones: commit, push, pull (fetch), checkout, pull-request
+
+master no se programa sobre esta. Se mergean los pull-request de las ramas que funcionan en pre-produccion
+hotfix rama de solucion de bugs en caliente se mergea con la rama dev y master
+dev y features
+
 
