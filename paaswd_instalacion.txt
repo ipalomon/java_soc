@@ -59,3 +59,21 @@ hotfix rama de solucion de bugs en caliente se mergea con la rama dev y master
 dev y features
 
 
+proyecyes documentación 
+issues temas 
+fat caracteristica para el usuario no para scripting
+fix bug
+docs
+style
+refactor
+test 
+chore
+
+se le pone una # #fix: 
+
+Version X La cero es más funcional el resto es refactory de código.
+Description Desc del problema Clases metodos ...
+Topics La decisión tomada en la resolución de vías de programación
+Output: images and links
+
+
